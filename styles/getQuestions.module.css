@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+.displayJson {
+  font-family: "Ubuntu Mono", monospace;
+  font-size: small;
+}
+
+.shadow {
+  border: 1px solid #0000001a;
+  /* box-shadow: 0 4px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 16px 0 rgba(0, 0, 0, 0.19); */
+}
+
+.tooltip {
+  position: relative;
+  right: 0;
+  top: 0;
+}
